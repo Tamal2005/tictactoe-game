@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tic-Tak-Toe Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and interactive Tic-Tac-Toe game built with React, JavaScript, CSS, HTML.
 
 ## Available Scripts
 
