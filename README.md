@@ -5,16 +5,30 @@ A simple and interactive Tic-Tac-Toe game built with React, JavaScript, CSS, HTM
 ## Running the Game
 
 In the project directory, you can run:
-1.Clone the repo:
-Copy code
-### git clone https://github.com/your-username/tic-tac-toe.git
 
-2.Navigate to the project directory:
-#### cd tic-tac-toe
+1.**Clone the repo**:
+```bash
+git clone https://github.com/Tamal2005/tictactoe-game.git
+```
 
-3.Install dependencies.
-### npm install
-6. Usage 
-After installing, start the game:
-### npm start
-Play the game by selecting a square on the 
+2.**Navigate to the project directory**:
+```bash
+cd tictactoe-game
+```
+
+3.**Install dependencies**:
+```bash
+npm install
+```
+
+4.**After installing, start the game**:
+```bash
+npm start
+```
+## Play the Game
+ [Visit my Tic-Tac-Toe Game](https://tictactoegame-bytamal.netlify.app)
+## Contributing
+- If you want others to contribute:
+  - Fork the repository.
+  - Create a branch for your changes.
+  - Submit a pull request with a description of your changes.
