@@ -2,7 +2,7 @@
 
 A simple and interactive Tic-Tac-Toe game built with React, JavaScript, CSS, HTML.
 
-## How to run the project 
+## How To Run The Project 
 
 In the project directory, you can run:
 
